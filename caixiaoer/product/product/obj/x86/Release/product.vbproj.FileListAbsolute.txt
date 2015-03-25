@@ -1,0 +1,12 @@
+E:\caixiaoer\product\product\bin\x86\Release\product.exe.config
+E:\caixiaoer\product\product\bin\x86\Release\product.exe
+E:\caixiaoer\product\product\bin\x86\Release\product.pdb
+E:\caixiaoer\product\product\bin\x86\Release\product.xml
+E:\caixiaoer\product\product\bin\x86\Release\MySql.Data.dll
+E:\caixiaoer\product\product\bin\x86\Release\System.Data.SQLite.dll
+E:\caixiaoer\product\product\obj\x86\Release\product.product.resources
+E:\caixiaoer\product\product\obj\x86\Release\product.Resources.resources
+E:\caixiaoer\product\product\obj\x86\Release\product.vbproj.GenerateResource.Cache
+E:\caixiaoer\product\product\obj\x86\Release\product.exe
+E:\caixiaoer\product\product\obj\x86\Release\product.xml
+E:\caixiaoer\product\product\obj\x86\Release\product.pdb

@@ -1,0 +1,12 @@
+E:\vs\vb\数据库同步\数据库同步\bin\Debug\数据库同步.exe.config
+E:\vs\vb\数据库同步\数据库同步\bin\Debug\数据库同步.exe
+E:\vs\vb\数据库同步\数据库同步\bin\Debug\数据库同步.pdb
+E:\vs\vb\数据库同步\数据库同步\bin\Debug\数据库同步.xml
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.Resources.resources
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.vbproj.GenerateResource.Cache
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.exe
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.xml
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.pdb
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.main.resources
+E:\vs\vb\数据库同步\数据库同步\obj\Debug\数据库同步.vbprojResolveAssemblyReference.cache
+E:\vs\vb\数据库同步\数据库同步\bin\Debug\System.Data.SQLite.dll

@@ -1,0 +1,13 @@
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\dbsynchap.exe.config
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\dbsynchap.exe
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\dbsynchap.pdb
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\dbsynchap.xml
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\MySql.Data.dll
+E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Release\System.Data.SQLite.dll
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.vbprojResolveAssemblyReference.cache
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.main.resources
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.Resources.resources
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.vbproj.GenerateResource.Cache
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.exe
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.xml
+E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Release\dbsynchap.pdb

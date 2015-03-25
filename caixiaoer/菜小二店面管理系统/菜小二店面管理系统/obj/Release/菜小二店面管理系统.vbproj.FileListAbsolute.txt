@@ -1,0 +1,12 @@
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\bin\Release\菜小二店面管理系统.exe.config
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\bin\Release\菜小二店面管理系统.exe
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\bin\Release\菜小二店面管理系统.pdb
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\bin\Release\菜小二店面管理系统.xml
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.login.resources
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.mian.resources
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.Resources.resources
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.purchase.resources
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.vbproj.GenerateResource.Cache
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.exe
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.xml
+E:\vs\vb\菜小二店面管理系统\菜小二店面管理系统\obj\Release\菜小二店面管理系统.pdb

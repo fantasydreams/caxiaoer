@@ -1,0 +1,17 @@
+E:\数据库同步\数据库同步\bin\x86\Debug\数据库同步.exe.config
+E:\数据库同步\数据库同步\obj\x86\Debug\数据库同步.exe
+E:\数据库同步\数据库同步\obj\x86\Debug\数据库同步.xml
+E:\数据库同步\数据库同步\obj\x86\Debug\数据库同步.pdb
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\数据库同步.exe.config
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.exe
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.xml
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.pdb
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\数据库同步.exe
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\数据库同步.pdb
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\数据库同步.xml
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\MySql.Data.dll
+E:\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\System.Data.SQLite.dll
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\dbsynch.vbprojResolveAssemblyReference.cache
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.main.resources
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.Resources.resources
+E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\dbsynch.vbproj.GenerateResource.Cache
