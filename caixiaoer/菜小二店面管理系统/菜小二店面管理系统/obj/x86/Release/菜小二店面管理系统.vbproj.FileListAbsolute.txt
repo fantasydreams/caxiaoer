@@ -33,3 +33,10 @@ E:\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Rel
 E:\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.xml
 E:\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.pdb
 E:\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.vbprojResolveAssemblyReference.cache
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\bin\x86\Release\菜小二店面管理系统.exe.config
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\Interop.WMPLib.dll
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\AxInterop.WMPLib.dll
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.vbproj.ResolveComReference.cache
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.exe
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.xml
+F:\caxiaoer\caixiaoer\菜小二店面管理系统\菜小二店面管理系统\obj\x86\Release\菜小二店面管理系统.pdb
