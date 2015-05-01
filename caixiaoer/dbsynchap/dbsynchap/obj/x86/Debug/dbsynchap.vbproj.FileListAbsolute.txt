@@ -11,3 +11,16 @@ E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.pdb
 E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\MySql.Data.dll
 E:\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\System.Data.SQLite.dll
 E:\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.vbprojResolveAssemblyReference.cache
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\dbsynchap.exe.config
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.exe
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.xml
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.pdb
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\dbsynchap.exe
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\dbsynchap.pdb
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\dbsynchap.xml
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\MySql.Data.dll
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\bin\x86\Debug\System.Data.SQLite.dll
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.vbprojResolveAssemblyReference.cache
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.main.resources
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.Resources.resources
+F:\caxiaoer\caixiaoer\dbsynchap\dbsynchap\obj\x86\Debug\dbsynchap.vbproj.GenerateResource.Cache

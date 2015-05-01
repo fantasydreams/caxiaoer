@@ -15,3 +15,7 @@ E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\dbsynch.vbprojResolve
 E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.main.resources
 E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.Resources.resources
 E:\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\dbsynch.vbproj.GenerateResource.Cache
+F:\caxiaoer\caixiaoer\数据库同步\数据库同步\bin\x86\Debug\数据库同步.exe.config
+F:\caxiaoer\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.exe
+F:\caxiaoer\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.xml
+F:\caxiaoer\caixiaoer\数据库同步\数据库同步\obj\x86\Debug\数据库同步.pdb
